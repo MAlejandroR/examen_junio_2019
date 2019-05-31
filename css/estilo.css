@@ -1,0 +1,10 @@
+fieldset{
+    margin:200px;
+    background: #f0ead8;
+    width:400px
+}
+legend{
+    font-size: 2em;
+    font-weight: bold;
+}
+
